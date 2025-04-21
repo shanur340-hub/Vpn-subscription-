@@ -1,1 +1,1 @@
-http://193.43.79.189:2096/sub/602vh23bewski1my
+vless://f34ce71f-91ff-46ab-b7b4-fc95b52db156@193.43.79.189:443?type=tcp&security=reality&pbk=6HR7QHpO_ywWv_0d4sRwA_sBI3z1zjyQ1onPpDDJag4&fp=chrome&sni=yahoo.com&sid=1a6201dd42b6&spx=%2F&flow=xtls-rprx-vision#Finland%20%F0%9F%87%AB%F0%9F%87%AE%202-Shanur
